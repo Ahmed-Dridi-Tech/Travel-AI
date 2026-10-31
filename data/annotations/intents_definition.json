@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "name": "weather",
+      "description": "User asks about weather conditions at a destination",
+      "examples_fr": ["Quel temps fait-il à Djerba?", "météo Tunis décembre"],
+      "examples_en": ["What's the weather like in Sousse?"],
+      "examples_tun_ar": ["شنو الطقس في جربة؟"],
+      "examples_tun_lat": ["chnowa el jaw fi Djerba?", "jaw Tunis ghoudwa"]
+    },
+    {
+      "name": "currency",
+      "description": "User asks about exchange rates or currency conversion",
+      "examples_fr": ["Combien vaut 1 euro en dinar?", "taux de change EUR TND"],
+      "examples_en": ["What's the exchange rate for USD to TND?"],
+      "examples_tun_ar": ["قداش الأورو بالدينار؟"],
+      "examples_tun_lat": ["qaddesh el euro bel dinar", "sarf euro tnd"]
+    },
+    {
+      "name": "destination",
+      "description": "User asks for destination recommendations or information",
+      "examples_fr": ["Que visiter à Tozeur?", "recommande-moi une destination"],
+      "examples_en": ["What are the best places to visit in Tunisia?"],
+      "examples_tun_ar": ["وين نقدر نمشي في تونس؟"],
+      "examples_tun_lat": ["win najem nemchi fi tounes?", "destination romantique"]
+    },
+    {
+      "name": "flight_inquiry",
+      "description": "User asks about flights or wants to book a flight",
+      "examples_fr": ["Vol Tunis Paris", "je cherche un vol pour Londres"],
+      "examples_en": ["Flights from Tunis to Paris", "book a flight to Rome"],
+      "examples_tun_ar": ["نحب طيارة من تونس لباريس"],
+      "examples_tun_lat": ["nheb vol Tunis Paris", "tayyara lel paris"]
+    },
+    {
+      "name": "hotel_inquiry",
+      "description": "User asks about hotels or accommodation",
+      "examples_fr": ["Hôtels à Hammamet", "je cherche un hôtel pas cher"],
+      "examples_en": ["Hotels in Djerba", "accommodation in Sousse"],
+      "examples_tun_ar": ["فندق في الحمامات"],
+      "examples_tun_lat": ["hotel fi hammamet", "logement Djerba pas cher"]
+    },
+    {
+      "name": "travel_faq",
+      "description": "General travel questions: visa, documents, budget, tips",
+      "examples_fr": ["Faut-il un visa?", "documents pour voyager en France"],
+      "examples_en": ["Do I need a visa for France?", "travel tips Tunisia"],
+      "examples_tun_ar": ["لازم فيزا لفرنسا؟"],
+      "examples_tun_lat": ["lazem viza lel france?", "documents safar"]
+    },
+    {
+      "name": "out_of_domain",
+      "description": "Not related to travel at all",
+      "examples_fr": ["Quelle est la capitale de la France?", "recette de couscous"],
+      "examples_en": ["Who won the football match?", "what's 2+2"],
+      "examples_tun_ar": ["شنو أحسن فيلم؟"],
+      "examples_tun_lat": ["chkoun ghala el match?"]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "djerba": {
+    "description_fr": "Île méditerranéenne réputée pour ses plages de sable et son architecture traditionnelle. Idéale pour les familles, avec de nombreux hôtels-clubs et Houmt Souk, sa ville principale et son marché.",
+    "description_en": "Mediterranean island known for its sandy beaches and traditional architecture. Ideal for families, with many resort hotels and Houmt Souk, its main town and market."
+  },
+  "tunis": {
+    "description_fr": "Capitale de la Tunisie, avec sa médina classée à l'UNESCO, ses souks et le musée du Bardo, réputé pour ses mosaïques romaines. Point de départ idéal pour visiter Carthage et Sidi Bou Saïd.",
+    "description_en": "Capital of Tunisia, with its UNESCO-listed medina, its souks and the Bardo Museum, famous for its Roman mosaics. An ideal base for visiting Carthage and Sidi Bou Said."
+  },
+  "sousse": {
+    "description_fr": "Grande station balnéaire de la côte est, avec une médina classée à l'UNESCO et de nombreux hôtels en bord de mer. Port El Kantaoui et sa marina sont tout proches.",
+    "description_en": "Major resort city on the east coast, with a UNESCO-listed medina and many seafront hotels. Port El Kantaoui and its marina are nearby."
+  },
+  "hammamet": {
+    "description_fr": "Station balnéaire du golfe de Hammamet, connue pour ses plages, sa médina fortifiée et la marina de Yasmine Hammamet. Très prisée pour les séjours en hôtel-club.",
+    "description_en": "Resort town on the Gulf of Hammamet, known for its beaches, its fortified medina and the Yasmine Hammamet marina. Very popular for resort-hotel stays."
+  },
+  "tozeur": {
+    "description_fr": "Oasis du sud-ouest, aux portes du Sahara et du chott el-Djérid. Connue pour sa palmeraie et son quartier ancien aux façades de briques décoratives (Ouled el-Hadef).",
+    "description_en": "Oasis in the south-west, at the edge of the Sahara and the Chott el Djerid salt lake. Known for its palm grove and old quarter with decorative brick façades (Ouled el-Hadef)."
+  },
+  "monastir": {
+    "description_fr": "Ville côtière du Sahel, célèbre pour son ribat du VIIIe siècle et le mausolée de Habib Bourguiba. Elle dispose d'un aéroport international, de plages et d'hôtels.",
+    "description_en": "Coastal city in the Sahel, famous for its 8th-century ribat and the Habib Bourguiba mausoleum. It has an international airport, beaches and hotels."
+  },
+  "tabarka": {
+    "description_fr": "Station du nord-ouest connue pour son fort génois, la plongée sous-marine et son festival de jazz. Entourée de forêts de chênes-lièges, proche d'Aïn Draham.",
+    "description_en": "Resort town in the north-west known for its Genoese fort, scuba diving and jazz festival. Surrounded by cork-oak forests, close to Aïn Draham."
+  },
+  "kairouan": {
+    "description_fr": "Ville sainte fondée au VIIe siècle, célèbre pour sa Grande Mosquée, sa médina classée à l'UNESCO, ses tapis et ses makrouds.",
+    "description_en": "Holy city founded in the 7th century, famous for its Great Mosque, its UNESCO-listed medina, its carpets and its makroud pastries."
+  },
+  "sidi-bou-said": {
+    "description_fr": "Village perché au-dessus du golfe de Tunis, célèbre pour ses maisons blanches aux portes et volets bleus et ses ruelles pavées. Idéal pour une promenade et un café face à la mer.",
+    "description_en": "Village perched above the Gulf of Tunis, famous for its white houses with blue doors and shutters and its cobbled lanes. Ideal for a stroll and a coffee by the sea."
+  },
+  "douz": {
+    "description_fr": "Porte du Sahara, point de départ des randonnées à dos de dromadaire et en 4x4 dans les dunes. Elle accueille traditionnellement un festival du Sahara en hiver.",
+    "description_en": "Gateway to the Sahara, starting point for camel and 4x4 trips into the dunes. It traditionally hosts a Sahara festival in winter."
+  }
+}

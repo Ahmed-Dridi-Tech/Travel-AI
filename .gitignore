@@ -1,0 +1,30 @@
+.env
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+models/
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+
+# Model artifacts (large; regenerate with scripts/download_models.py and scripts/train_intent.py)
+data/models/
+*.pkl
+*.bin
+*.joblib
+*.ftz
+
+# Secrets and local config (only .env.example is committed)
+.env.local
+.env.*.local
+.streamlit/secrets.toml
+
+# Tooling output
+*.log
+.coverage
+htmlcov/
+build/
+dist/

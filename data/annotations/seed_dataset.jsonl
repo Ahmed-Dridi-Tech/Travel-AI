@@ -1,0 +1,160 @@
+{"text": "Quel temps fait-il à Djerba en décembre ?", "language": "fr", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "météo Tunis", "language": "fr", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Est-ce qu'il va pleuvoir à Sousse demain ?", "language": "fr", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Quelle température à Tozeur en août", "language": "fr", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "il fait chaud a hammamet en mai?", "language": "fr", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "What's the weather like in Sousse?", "language": "en", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "weather Tunis tomorrow", "language": "en", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Is it too hot in Tozeur in July?", "language": "en", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Will it rain in Djerba this weekend", "language": "en", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "temprature in Monastir now", "language": "en", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "شنو الطقس في جربة؟", "language": "tun_ar", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "كيفاش الجو في سوسة غدوة؟", "language": "tun_ar", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "الدنيا سخونة في توزر توا؟", "language": "tun_ar", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "باش تشتي في تونس غدوة؟", "language": "tun_ar", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "chnowa el jaw fi Djerba?", "language": "tun_lat", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "jaw Tunis ghoudwa", "language": "tun_lat", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "el jaw s5oun fi Tozeur taw?", "language": "tun_lat", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "bech tchati fi Sousse nhar el sebt?", "language": "tun_lat", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "ما هي حالة الطقس في تونس اليوم؟", "language": "ar", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "درجة الحرارة في الحمامات", "language": "ar", "intent": "weather", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Combien vaut 1 euro en dinar ?", "language": "fr", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "taux de change EUR TND", "language": "fr", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "convertir 500 dollars en dinars", "language": "fr", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Quel est le cours de la livre sterling aujourdhui ?", "language": "fr", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "euro dinar", "language": "fr", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "What's the exchange rate for USD to TND?", "language": "en", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "convert 200 euros to dinars", "language": "en", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "how much is 1 pound in Tunisian dinar", "language": "en", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "exchange rate", "language": "en", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "currenccy rate eur tnd", "language": "en", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "قداش الأورو بالدينار؟", "language": "tun_ar", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "قداش يسوى الدولار توا؟", "language": "tun_ar", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نحب نبدل 100 أورو لدينار، قداش نتحصل؟", "language": "tun_ar", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "شنو سعر الصرف متاع الأورو؟", "language": "tun_ar", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "qaddesh el euro bel dinar", "language": "tun_lat", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "sarf euro tnd", "language": "tun_lat", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "9adech ysawi el dollar taw?", "language": "tun_lat", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "nheb nbadel 100 euro, 9adech nlaqa fi dinar?", "language": "tun_lat", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "ما هو سعر صرف اليورو مقابل الدينار التونسي؟", "language": "ar", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "تحويل الدولار إلى دينار", "language": "ar", "intent": "currency", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Que visiter à Tozeur ?", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "recommande-moi une destination", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Où partir en famille cet été en Tunisie ?", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "plage tranquille", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "quoi visiter a Kairouan?", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "What are the best places to visit in Tunisia?", "language": "en", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Recommend a beach destination for families", "language": "en", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "things to do in Hammamet", "language": "en", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "romantic getaway ideas", "language": "en", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "where shoud I go in october", "language": "en", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "وين نجم نمشي في تونس؟", "language": "tun_ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "عندك فكرة على بلاصة هادية للعطلة؟", "language": "tun_ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "شنو نزور في توزر؟", "language": "tun_ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نحب نمشي لبلاصة فيها بحر وما فيهاش برشا ناس", "language": "tun_ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "win najem nemchi fi tounes?", "language": "tun_lat", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "destination romantique", "language": "tun_lat", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "chnowa nzour fi Kairouan?", "language": "tun_lat", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "chnowa el blayes el behia fil janoub?", "language": "tun_lat", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "ما هي أجمل الوجهات السياحية في تونس؟", "language": "ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "أقترح علي مكانا للاستجمام", "language": "ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Vol Tunis Paris", "language": "fr", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "je cherche un vol pour Londres", "language": "fr", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Y a-t-il des vols directs vers Istanbul en juillet ?", "language": "fr", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "billet d'avion Tunis Rome pas cher", "language": "fr", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "horaires des vols Djerba Lyon", "language": "fr", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Flights from Tunis to Paris", "language": "en", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "book a flight to Rome", "language": "en", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "cheapest plane ticket to Istanbul", "language": "en", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "is there a direct flight Tunis Madrid", "language": "en", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "flihgt to Dubai", "language": "en", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نحب طيارة من تونس لباريس", "language": "tun_ar", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "فما طيارات مباشرة لإسطنبول؟", "language": "tun_ar", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "قداش التذكرة متاع الطيارة لروما؟", "language": "tun_ar", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نحب نحجز طيارة لدبي في أوت", "language": "tun_ar", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "nheb vol Tunis Paris", "language": "tun_lat", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "tayyara lel paris", "language": "tun_lat", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "famma vols direct lel Istanbul?", "language": "tun_lat", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "n7eb n7ajez billet avion lel Roma", "language": "tun_lat", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "أبحث عن رحلة جوية من تونس إلى لندن", "language": "ar", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "حجز تذكرة طيران إلى القاهرة", "language": "ar", "intent": "flight_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Hôtels à Hammamet", "language": "fr", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "je cherche un hôtel pas cher", "language": "fr", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "hôtel all inclusive Djerba pour 2 adultes", "language": "fr", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Quel hôtel 4 étoiles à Sousse ?", "language": "fr", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "chambre double a Tabarka", "language": "fr", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Hotels in Djerba", "language": "en", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "accommodation in Sousse", "language": "en", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "cheap hostel near Tunis medina", "language": "en", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "I need a room for 3 nights in Tozeur", "language": "en", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "family hotl in Monastir", "language": "en", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "فندق في الحمامات", "language": "tun_ar", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نحب نلقى أوتيل رخيص في سوسة", "language": "tun_ar", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "فما أوتيل قريب من البحر في جربة؟", "language": "tun_ar", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نحب نحجز شمبر لثلاث ليالي في توزر", "language": "tun_ar", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "hotel fi hammamet", "language": "tun_lat", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "logement Djerba pas cher", "language": "tun_lat", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "nheb hotel 4 etoiles fi Sousse", "language": "tun_lat", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "famma chambre libre fi Tabarka?", "language": "tun_lat", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "أبحث عن فندق في تونس العاصمة", "language": "ar", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "ما هي أفضل الفنادق في الحمامات؟", "language": "ar", "intent": "hotel_inquiry", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Faut-il un visa ?", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "documents pour voyager en France", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Quel budget pour une semaine en Tunisie ?", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "peut-on payer par carte en Tunisie", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "bagage cabine poids max", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Do I need a visa for France?", "language": "en", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "travel tips Tunisia", "language": "en", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "what documents does a Tunisian passport holder need for Turkey", "language": "en", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "is tap water safe to drink", "language": "en", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "travel insurnce necessary?", "language": "en", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "لازم فيزا لفرنسا؟", "language": "tun_ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "شنو الوثائق اللي نحتاجها باش نسافر؟", "language": "tun_ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "كيفاش نعمل باسبور جديد؟", "language": "tun_ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "نجم نسافر لتركيا بلا فيزا؟", "language": "tun_ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "lazem viza lel france?", "language": "tun_lat", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "documents safar", "language": "tun_lat", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "kifech na3mel passeport jdid?", "language": "tun_lat", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "najem nsafer lel turkia bla viza?", "language": "tun_lat", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "ما هي الوثائق المطلوبة للسفر إلى أوروبا؟", "language": "ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "هل أحتاج إلى تأمين سفر؟", "language": "ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Quelle est la capitale de la France ?", "language": "fr", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "recette de couscous", "language": "fr", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Qui a gagné le match hier ?", "language": "fr", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "comment réparer mon ordinateur", "language": "fr", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "tu peux m'écrire un poème ?", "language": "fr", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Who won the football match?", "language": "en", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "what's 2+2", "language": "en", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "write me a python function", "language": "en", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "best pizza recipe", "language": "en", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "how do i lose weight fast", "language": "en", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "شنو أحسن فيلم؟", "language": "tun_ar", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "كيفاش نطيب الكسكسي؟", "language": "tun_ar", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "شكون ربح الماتش البارح؟", "language": "tun_ar", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "كيفاش نصلح الكمبيوتر متاعي؟", "language": "tun_ar", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "chkoun ghala el match?", "language": "tun_lat", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "chnowa a7sen film?", "language": "tun_lat", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "kifech nsalah el telephone?", "language": "tun_lat", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "wa9tech yetla3 resultat el bac?", "language": "tun_lat", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "ما هي عاصمة اليابان؟", "language": "ar", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "اكتب لي قصيدة عن الحب", "language": "ar", "intent": "out_of_domain", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Bonjour", "language": "fr", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Merci beaucoup !", "language": "fr", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Qui es-tu ?", "language": "fr", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "Hi, who are you?", "language": "en", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "thanks, goodbye!", "language": "en", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "salam", "language": "tun_lat", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "aaslema chnahwelek", "language": "tun_lat", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "yaatik essaha, besslema", "language": "tun_lat", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "السلام عليكم", "language": "tun_ar", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "سلام، شكون إنت؟", "language": "tun_ar", "intent": "smalltalk", "entities": [], "source": "synthetic", "validated": true}
+{"text": "visa Tunisie ?", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "vaccins obligatoires ?", "language": "fr", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "visa on arrival?", "language": "en", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "viza lazma?", "language": "tun_lat", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "لازمني باسبور؟", "language": "tun_ar", "intent": "travel_faq", "entities": [], "source": "synthetic", "validated": true}
+{"text": "où partir en avril ?", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "idées de séjour", "language": "fr", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "best beaches Tunisia", "language": "en", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "blayes behia lel 3a2ila", "language": "tun_lat", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
+{"text": "وين نمشي في الصيف؟", "language": "tun_ar", "intent": "destination", "entities": [], "source": "synthetic", "validated": true}
